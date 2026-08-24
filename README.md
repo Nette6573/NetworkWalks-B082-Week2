@@ -56,7 +56,6 @@ NetworkWalks_B082_Week2/
 ├── PM2-GHDB/
 │   ├── README.md
 │   ├── results/
-│   └── screenshots/
 │
 ├── PM5-Zenmap/
 │   ├── README.md
