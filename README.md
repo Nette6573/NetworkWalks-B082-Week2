@@ -1,5 +1,13 @@
 # NetworkWalks-B082-Week2
 
+## Author
+
+**Name:** Antoinette Thompson  
+**GitHub:** [Nette6573](https://github.com/Nette6573)  
+**Program:** NetworkWalks Cybersecurity Internship  
+**Batch:** B082  
+**Project:** Project 2 – Footprinting, Reconnaissance & Network Scanning
+
 ## Overview
 
 This repository documents my Week 2 practical cybersecurity work for the NetworkWalks Cybersecurity Internship.
@@ -15,7 +23,7 @@ The exercises demonstrate a progression from reconnaissance and information gath
 
 ## Security & Privacy Notice
 
-This repository contains **sanitized evidence for portfolio/assessment sharing**.
+This repository contains **sanitized evidence for portfolio and assessment sharing**.
 
 Sensitive information has been intentionally removed or blurred, including:
 
@@ -36,6 +44,7 @@ The original unredacted evidence should be retained privately and supplied only 
 NetworkWalks_B082_Week2/
 │
 ├── PM1-Footprinting/
+│   ├── README.md
 │   └── screenshots/
 │       ├── PM1-Task1-WHOIS-REDACTED.png
 │       ├── PM1-Task2-WhatWeb-REDACTED.png
@@ -45,15 +54,18 @@ NetworkWalks_B082_Week2/
 │       └── PM1-Task6-DNSRecon-REDACTED.png
 │
 ├── PM2-GHDB/
+│   ├── README.md
 │   ├── results/
 │   └── screenshots/
 │
 ├── PM5-Zenmap/
+│   ├── README.md
 │   ├── results/
 │   └── screenshots/
 │       └── PM5-Zenmap-Topology-REDACTED.png
 │
 ├── W2-PM-FINAL/
+│   ├── Antoinette_Thompson_NetworkWalks_B082_Week2_Penetration_Testing_Report.pdf
 │   └── Antoinette_Thompson_NetworkWalks_B082_Week2_Penetration_Testing_Report.docx
 │
 └── README.md
@@ -135,9 +147,13 @@ These observations are **not automatically confirmed vulnerabilities**. Addition
 
 ## Final Report
 
-The detailed report is available here:
+The detailed Week 2 penetration-testing report is available in the `W2-PM-FINAL` folder.
 
-`W2-PM-FINAL/Antoinette_Thompson_NetworkWalks_B082_Week2_Penetration_Testing_Report.docx`
+**[View the PDF Report](./W2-PM-FINAL/Antoinette_Thompson_NetworkWalks_B082_Week2_Penetration_Testing_Report.pdf)**
+
+The editable Word version is also included for reference:
+
+**[View the Word Report](./W2-PM-FINAL/Antoinette_Thompson_NetworkWalks_B082_Week2_Penetration_Testing_Report.docx)**
 
 ## Evidence
 
@@ -145,11 +161,28 @@ All screenshots included in this repository have been sanitized for safe sharing
 
 The evidence demonstrates the practical work without unnecessarily publishing sensitive addresses, identifiers, tokens or third-party access paths.
 
-## LinkedIn Project Updates
+## LinkedIn Project Update
 
-Project updates were also shared on LinkedIn:
+My Week 2 Project 2 update is available on LinkedIn:
 
+**Project 2: Footprinting, Reconnaissance & Network Scanning | NetworkWalks B082**
 
-
+[View the LinkedIn Project 2 Post](https://lnkd.in/p/ehRvcSnG)
 
 ## Disclaimer
+
+This repository documents practical cybersecurity exercises completed as part of the **NetworkWalks Cybersecurity Internship – Batch B082**.
+
+All activities documented in this repository were performed for **educational and authorized training purposes** within the scope of the internship exercises.
+
+The information presented is intended for cybersecurity learning, assessment documentation and professional portfolio purposes. The repository does not claim unauthorized access, exploitation or compromise of any system.
+
+Sensitive information has been sanitized before publication. Live third-party camera URLs, IP addresses, MAC addresses, credentials, tokens and other potentially sensitive information have intentionally been excluded or redacted.
+
+Any findings documented in this repository should not be interpreted as confirmed vulnerabilities without appropriate validation and authorization.
+
+**Original unredacted evidence should be retained privately and shared only through an authorized NetworkWalks submission channel when required.**
+
+## Acknowledgement
+
+Thank you to **NETWORKWALKS** and **Waqas Karim (CCIE)** for the guidance, instruction and opportunity to develop practical cybersecurity skills through the internship.
